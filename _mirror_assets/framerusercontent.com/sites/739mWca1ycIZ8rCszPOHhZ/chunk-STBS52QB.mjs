@@ -1,0 +1,2 @@
+import{a as n,s as r}from"./chunk-K2ZTYOK3.mjs";import{c as a}from"./chunk-RIUMFBNJ.mjs";function c({loading:o,loaded:t}){let[e,i]=n.useState(!0);return n.useEffect(()=>i(!1),[]),e?o:t}function l(){a.scrollTo({top:0,behavior:"smooth"})}function s(o){return t=>r(o,{...t,onClick:l})}function m(o){return t=>{let e=s(o);return r(c,{loading:r(o,{...t}),loaded:r(e,{...t})})}}export{m as a};
+//# sourceMappingURL=chunk-STBS52QB.mjs.map
